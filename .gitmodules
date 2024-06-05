@@ -1,3 +1,3 @@
 [submodule "testing-submodule"]
-	path = ../testing-submodule
+	path = testing-submodule
 	url = git@github.com:coolgopal/testing-submodule.git
